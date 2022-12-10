@@ -16,6 +16,7 @@ import java.util.Scanner;
 			System.out.println( cube + " is a Armstrong number.");}
 		else{
 			System.out.println(temp + " is not a Armstrong numuber");
-			}	
+			
+}	
 	}
 }
