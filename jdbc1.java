@@ -6,7 +6,7 @@ import java.sql.*;
 		System.out.print("connected");	
 			}
 		catch(Exception e){
-			System.out.print("not connected");
+			System.out.print(e);
 			}
 	}
 }
